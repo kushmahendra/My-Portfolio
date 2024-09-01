@@ -5,7 +5,7 @@ const Home = () => {
     <>
       <div className="bg-[#10002B] text-white w-full px-2 md:px-8 lg:px-16">
         {/* Main container with responsive padding */}
-        <div className="pt-16 flex  items-center md:flex-row md:items-start lg:justify-center">
+        <div className="pt-10  flex  items-center md:flex-row md:items-start lg:justify-center">
           {/* Responsive image container */}
           <img
             src="./public/Me.png"
