@@ -4,7 +4,7 @@ const Skills = () => {
   return (
    <>
        <div className='bg-[#10002B] flex items-center justify-center px-6 py-8 '>
-      <img src="./public/Skills-1.png" alt=""  />
+      <img src="/Skills-1.png" alt=""  />
     </div>
    </>
   )

@@ -21,7 +21,7 @@ const Header = () => {
       <div className="bg-[#10002B] w-full">
         <div className="border border-blue-950 flex flex-wrap items-center justify-between text-white py-3 px-8 sm:px-16 md:px-18 lg:px-20">
        
-          <img src="./public/Logo.png" alt="Logo" className="w-4 md:w-8 lg:w-10 sm:w-6" />
+          <img src="/Logo.png" alt="Logo" className="w-4 md:w-8 lg:w-10 sm:w-6" />
 
           {/* Navigation Links */}
           <div className="flex flex-wrap gap-4 sm:gap-10 md:gap-14 lg:gap-24 text-sm sm:text-lg md:text-xl lg:text-2xl font-semibold">

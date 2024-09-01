@@ -8,7 +8,7 @@ const Home = () => {
         <div className="pt-10  flex  items-center md:flex-row md:items-start lg:justify-center">
           {/* Responsive image container */}
           <img
-            src="./public/Me.png"
+            src="/Me.png"
             alt="Profile"
             className="w-40 sm:w-52 md:w-60 lg:w-64 xl:w-72 mx-auto md:mx-0"
           />
