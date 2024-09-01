@@ -16,7 +16,7 @@ const Projects = () => {
           </p>
         </div>
         <div className="mt-6 md:mt-0 md:ml-6 lg:ml-8 w-full md:w-1/2 flex justify-center items-center">
-          <img src="Chatweb1.png" alt="Project Image" className="w-full h-auto max-w-xs md:max-w-sm lg:max-w-md rounded-lg shadow-lg" />
+          <img src="./public/Chatweb1.png" alt="Project Image" className="w-full h-auto max-w-xs md:max-w-sm lg:max-w-md rounded-lg shadow-lg" />
         </div>
       </div>
     </>

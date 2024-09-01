@@ -10,7 +10,7 @@ const Contact = () => {
         <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 mx-4 md:mx-8 gap-6'>
           {/* Contact Section */}
           <div className='border border-gray-400 p-4 rounded-md'>
-            <h1 className='text-2xl md:text-3xl py-2 text-center'>Contact Me</h1>
+            <h1 className='text-2xl md:text-3xl py-4 text-center'>Contact Me</h1>
             <p>
               I'm currently looking to join a cross-functional team that values improving people's lives through
               innovative technology. Have a project in mind? Let's connect.
