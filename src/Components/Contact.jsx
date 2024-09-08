@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Contact = () => {
+const Contact = React.memo(() => {
   return (
     <>
-      <div className='bg-[#10002B] text-white py-6'>
+      <section className='bg-[#10002B] text-white pt-12 pb-6'>
         <div className='text-4xl text-center py-12'>
           <h1>More Projects Coming Soon...</h1>
         </div>
@@ -23,7 +23,7 @@ const Contact = () => {
                 rel="noopener noreferrer"
                 aria-label="LinkedIn"
               >
-                <i className="fa-brands fa-linkedin text-xl"></i>
+                <i className="fa-brands fa-linkedin animate-spin text-xl"></i>
               </a>
               <a
                 href="https://github.com/kushmahendra"
@@ -31,7 +31,7 @@ const Contact = () => {
                 rel="noopener noreferrer"
                 aria-label="GitHub"
               >
-                <i className="fa-brands fa-github text-xl"></i>
+                <i className="fa-brands fa-github animate-spin text-xl"></i>
               </a>
               <a
                 href="https://leetcode.com/u/kushwahamahendra691/"
@@ -40,7 +40,7 @@ const Contact = () => {
                 aria-label="LeetCode"
               >
                 <img
-                  className='w-8 h-8'
+                  className=' w-8 h-8'
                   src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkGBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Kzc3Nzc3Nzc3Nzc3NzgtNzc3MTc4Ky83Nzc3ODc3ODc3NTgsNzM3Mi83Nzc3Nzg3LP/AABEIABwAHAMBEQACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAAEBgEFBwMC/8QAKhAAAQMDAwIFBQEAAAAAAAAAAgEDBAAFEQYSMRNRITJBYZElQnGx8Af/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAwQC/8QAIxEAAgIBAwMFAAAAAAAAAAAAAAIBAxESMWEEI3ETISJR0f/aAAwDAQACEQMRAD8AzHcPZPigLTTdimajuY223tjlE3vPH4AyHqRL6J+6AAlg0xKejtPNSAbcIRea8jiIuNyey80By3D2SgPNpivXW6w7RHIRelvgyBFwKkuMr+KA0SRc5ltekaG/z6IjjUA1S5ynkHfMdRdq5yqYFFRUwnbwwnMrqVuSUbafo7rsmttS7ivq20TY5FeVs5W+MSCjo9YCFHF52oi8L4Vx01dldeixtWNp455OrnR21LGP0WerWgkCRpj0WS1MjOk2+yaONmPIki5RfmgHq7XnTWr2o96uMs7JfUXbP6DJE3LFE8444Jf7OKz9RZakR6Sap84K1IjT82xAqahuMKXP+lMGxDbBABDNVJzH3ln1WnTJalfdbLT7+OBcyM3bjEFZ1fetBIHoCKAmgIoD/9k="
                   alt="LeetCode Logo"
                 />
@@ -106,9 +106,9 @@ const Contact = () => {
             </form>
           </div>
         </div>
-      </div>
+      </section>
     </>
   );
-};
+});
 
 export default Contact;
