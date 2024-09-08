@@ -4,13 +4,13 @@ Welcome to my personal portfolio! This project showcases my work, skills, and pr
 # 🚀 Tech Stack
 
 
-React.js: For building a dynamic and component-based user interface.
+**React.js:** For building a dynamic and component-based user interface.
 
-Tailwind CSS: For rapid and customizable styling using utility-first classes.
+**Tailwind CSS:** For rapid and customizable styling using utility-first classes.
 
-Vite: As the development environment for fast builds and optimized performance.
+**Vite:**  As the development environment for fast builds and optimized performance.
 
-Netlify: For deployment, ensuring fast load times and a smooth user experience.
+**Netlify:**  For deployment, ensuring fast load times and a smooth user experience.
 
 # ✨ Features
 
@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/your-kushmahendra/portfolio.git
+git clone https://github.com/kushmahendra/My-Portfolio.git
 
 **Navigate to the project directory:**
 
@@ -65,7 +65,7 @@ For development, the following commands are available:
 
 Feel free to reach out if you have any questions or feedback!
 
-**Email:** kushwahamhendra691@gmail.com
+**Email:** kushwahamahendra691@gmail.com
 
 **LinkedIn:** www.linkedin.com/in/mahendra-kushwaha-333569259
 
