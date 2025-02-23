@@ -69,5 +69,4 @@ Feel free to reach out if you have any questions or feedback!
 
 **LinkedIn:** www.linkedin.com/in/mahendra-kushwaha-333569259
 
-# 🙏 Acknowledgments
-Special thanks to the open-source community for providing fantastic tools and libraries to make development enjoyable.
+
